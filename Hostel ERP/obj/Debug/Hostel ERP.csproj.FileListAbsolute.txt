@@ -1,0 +1,59 @@
+G:\Projects\Hostel ERP\Hostel ERP\bin\Hostel ERP.dll.config
+G:\Projects\Hostel ERP\Hostel ERP\bin\Hostel ERP.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\Hostel ERP.pdb
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\csc.exe
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\csc.exe.config
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\csc.rsp
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\csi.exe
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\csi.exe.config
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\csi.rsp
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.AppContext.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Collections.Immutable.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Console.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Globalization.Calendars.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.IO.Compression.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.IO.FileSystem.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Net.Http.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Net.Sockets.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Reflection.Metadata.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.ValueTuple.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Xml.XPath.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\vbc.exe
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\vbc.exe.config
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\vbc.rsp
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\VBCSCompiler.exe
+G:\Projects\Hostel ERP\Hostel ERP\bin\roslyn\VBCSCompiler.exe.config
+G:\Projects\Hostel ERP\Hostel ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Projects\Hostel ERP\Hostel ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Projects\Hostel ERP\Hostel ERP\obj\Debug\Hostel ERP.csprojAssemblyReference.cache
+G:\Projects\Hostel ERP\Hostel ERP\obj\Debug\Hostel ERP.csproj.CoreCompileInputs.cache
+G:\Projects\Hostel ERP\Hostel ERP\obj\Debug\Hostel ERP.csproj.CopyComplete
+G:\Projects\Hostel ERP\Hostel ERP\obj\Debug\Hostel ERP.dll
+G:\Projects\Hostel ERP\Hostel ERP\obj\Debug\Hostel ERP.pdb
